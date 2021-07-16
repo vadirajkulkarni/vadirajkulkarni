@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vadirajkulkarni
 - 👀 I’m interested in blockchain, defi and fintech.
-- 🌱 I’m currently learning react, solidity and Plutus.
-- 💞️ I’m looking to collaborate on a new project.
+- 🌱 I’m currently working on dragonchain and Plutus.
+- 💞️ I’m looking forward to a full-time blockchain developer position.
 - 📫 How to reach me iamvadiraj1995@gmail.com
 
 <!---
