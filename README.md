@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vadirajkulkarni
 - 👀 I’m interested in blockchain, defi and fintech.
-- 🌱 I’m currently working on Nodejs and Plutus.
-- 💞️ I’m looking forward to a full-time blockchain developer position.
+- 🌱 I’m currently at ANZ Banking group.
+- 💞️ I’m looking forward to collaborate on exciting projects.
 - 📫 How to reach me iamvadiraj1995@gmail.com
 
 <!---
